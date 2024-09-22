@@ -47,7 +47,7 @@ Activate the virtual environmant:
 .venv\Scripts\activate
 
 # Linux
-source .venv/bin/activae
+source .venv/bin/activate
 ```
 Install dependencies:
 ```bash
